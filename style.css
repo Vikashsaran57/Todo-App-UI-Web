@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+   
+    height: 1368px;
+    background-color: #F7F7F7;
+}
+header{
+    border: 1px solid #F7F7F7;
+    background-color: #ffffff;
+    height: 94px;
+}
+h1{
+    margin-top: 23px;
+    margin-left: 139px;
+    width: 196px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+#icon{
+    display: flex;
+    padding: 30px 120px 30px 1005px;
+}
+#icon i{
+    font-size: 40px;
+    color: #00A5EC;
+}
+#icon p{
+    padding-left: 15px;
+    font-size: 22px;
+    padding-top: 9px;
+}
+#container1{
+    margin-left: 120px;
+    margin-right: 120px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    margin: 5px;
+    width: 352px;
+    height: 360px;
+    border: 1px solid #ededed;
+    background-color: #ffffff;
+    border-radius: 10px;
+    opacity: 1; 
+}
+#link-page3{
+    text-decoration: none;
+}
+.my-para{
+    margin-top: 34px;
+    margin-left: 30px;
+    margin-bottom: 34px;
+    height: 24px;
+    color: #00A5EC;
+    font-size: 24px;
+}
+.checkbox{
+    margin-top: 34px;
+    margin-left: 30px;
+    opacity: 0.6;
+}
+
+
+/* style for HTML Page 3 */
+#icon1{
+    display: flex;
+    padding: 30px 433px 30px 433px;
+}
+#icon1 a{
+    color: black;
+}
+#icon1 i{
+    font-size: 40px;
+}
+#icon1 p{
+    padding-left: 15px;
+    font-size: 22px;
+    padding-top: 9px;
+}
+.circle-plus{
+    color: #00A5EC;
+    margin-left: 180px;
+}
+.container2{
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+    height: 338px;
+    border: 1px solid #ededed;
+    background-color: #ffffff;
+    border-radius: 10px;
+    opacity: 1;
+}
+#my-para1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 24px;
+    color: #00A5EC;
+    font-size: 24px;
+}
+#checkbox1{
+    margin-top: 34px;
+    margin-left: 30px;
+    opacity: 0.6;
+}
+/* stylw for HTML Page 2*/
+#page2{
+    background-color: #4C4C4C;
+    filter:brightness(30%)
+}
+.container3{
+    position:fixed;
+    top: 184px;
+    left: 423px;
+    border: 1px solid #ededed;
+    border-radius: 10px;
+    opacity: 1;
+    width: 500px;
+    height: 250px;
+    background-color: white;
+}
+.container3 h3{
+    padding: 20px;
+}
+#input-text{
+    width: 440px;
+    height: 40px;
+    background-color: #F7F7F7;
+    border: 1px solid #F7F7F7;
+    border-radius: 5px;
+    padding-left: 20px;
+    margin: 20px;
+}
+#input-btn{
+    width: 150px;
+    height: 40px;
+    margin-left: 330px;
+    background-color: #00A5EC;
+    border: 1px solid #00A5EC;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+/* style for page4 */
+#page4{
+    height: 1000px;
+    background-color: #4C4C4C;
+    filter:brightness(30%)
+}
